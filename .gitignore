@@ -1,0 +1,8 @@
+.DS_Store
+.cache
+.next
+
+node_modules
+
+.env*
+!.env.example
